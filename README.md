@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Problem Solving, C++, Dart, Flutter, Firebase, and anything related to problem solving and mobile development.
 - ⚡ Fun Fact: I like playing video games with others and also watching animes.
-- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/abdullahbokl/ to see some of my experiences, projects, certificates and coources.
+- 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/abdullahbokl/ to see some of my experiences, projects, certificates and cources.
 - 📚 Currently, I am learning JavaScript to become a backend developer.
 
 
